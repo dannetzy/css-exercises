@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.foo {
+  background-color: lightcoral;
+  font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#baz {
+  color: blue;
+  font-size: 36px;
+}
+
+.foo.bar {
+  font-size: 24px;
+}
+
+#bee {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
